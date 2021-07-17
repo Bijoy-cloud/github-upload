@@ -1,0 +1,7 @@
+.loading,.header{
+    text-align: center;
+}
+.loading,.mew-form{
+    width:50%;
+    margin: 0 auto;
+}
